@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T08:06:48.811Z",
+  "generated_at": "2026-10-20T08:13:36.715Z",
   "items": {
     "math:129": {
       "kind": "math",
@@ -11,6 +11,19 @@
       "path": "math/0129-perceptron-convergence-bound",
       "first_solved_at": "2026-10-20T08:06:42.387Z",
       "last_pushed_at": "2026-10-20T08:06:42.387Z"
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-10-20T08:13:35.402Z",
+      "last_pushed_at": "2026-10-20T08:13:35.402Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
